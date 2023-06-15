@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 ssssas
-=======
-ssssas
->>>>>>> branch1
+
