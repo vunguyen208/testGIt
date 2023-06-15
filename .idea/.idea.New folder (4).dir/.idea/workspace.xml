@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="947d4c75-6979-423e-bc5d-0efb7d1f5fe9" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/333.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/444.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/555.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="947d4c75-6979-423e-bc5d-0efb7d1f5fe9" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
